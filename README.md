@@ -1,5 +1,5 @@
 # Data-Structures
 
-### What is this repository?
+## What is this repository?
 
-This repository will include different types of Data Structures. Till now I have learned only Arrays.
+This repository will include different types of Data Structures. Till now I have learned only Physical Data Structures.
