@@ -2,4 +2,4 @@
 
 ## What is this repository?
 
-This repository will include different types of Data Structures. Till now I have learned only Physical Data Structures.
+This repository includes different types of Data Structures which anyone can use in their code.
